@@ -11,6 +11,20 @@ body{
     padding: 0 29px;
     font-family: 'Montserrat', sans-serif;
 }
-ul{
-    
+
+.section-form{
+    background-color: var(--background-dark);
+}
+.contact-us{
+    background-color: var(--background-ligth);
+    text-transform: uppercase;
+}
+.form-button{
+    background-color: var(--logo-color);
+    padding: 20px 33px;
+    border-radius: 5px;
+    color: var(--background-ligth);
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
 }
